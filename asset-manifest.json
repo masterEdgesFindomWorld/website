@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/paper-kit-react/static/css/main.4dafef1a.css",
+    "main.js": "/paper-kit-react/static/js/main.59af175a.js",
+    "static/media/3.jpeg": "/paper-kit-react/static/media/3.f2d2a460be4f2e01f323.jpeg",
+    "static/media/clouds.png": "/paper-kit-react/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/login-image.jpg": "/paper-kit-react/static/media/login-image.21e8ba3f9dca3c346851.jpg",
+    "static/media/7.jpeg": "/paper-kit-react/static/media/7.9c9961ab590c840030ad.jpeg",
+    "static/media/2.jpeg": "/paper-kit-react/static/media/2.094b881592b21d351147.jpeg",
+    "static/media/ilya-yakover.jpg": "/paper-kit-react/static/media/ilya-yakover.751c23c0dc4ff39577cf.jpg",
+    "static/media/master-barres.jpg": "/paper-kit-react/static/media/master-barres.a754bc012c8d18c52280.jpg",
+    "static/media/fabio-mangione.jpg": "/paper-kit-react/static/media/fabio-mangione.488bc249dffdae3556c6.jpg",
+    "static/media/uriel-soberanes.jpg": "/paper-kit-react/static/media/uriel-soberanes.b741f54e9ccbd071a751.jpg",
+    "static/media/6.jpeg": "/paper-kit-react/static/media/6.bc485e1e484a39340b41.jpeg",
+    "static/media/fog-low.png": "/paper-kit-react/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/daniel-olahh.jpg": "/paper-kit-react/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
+    "static/media/9.jpeg": "/paper-kit-react/static/media/9.ea3ad00be9369459961a.jpeg",
+    "static/media/8.jpeg": "/paper-kit-react/static/media/8.3be74f511a76f092c4a3.jpeg",
+    "static/media/profile-page.png": "/paper-kit-react/static/media/profile-page.3a626caf205d1143f192.png",
+    "static/media/landing-page.png": "/paper-kit-react/static/media/landing-page.80158096b63fb4a837e1.png",
+    "static/media/1.jpeg": "/paper-kit-react/static/media/1.0f085d83c0a053b41299.jpeg",
+    "static/media/clem-onojeghuo-2.jpg": "/paper-kit-react/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
+    "static/media/4.jpeg": "/paper-kit-react/static/media/4.49c8ef768045ed3680c0.jpeg",
+    "static/media/ayo-ogunseinde-2.jpg": "/paper-kit-react/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
+    "static/media/joe-gardner-2.jpg": "/paper-kit-react/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/paper-kit-react/static/media/clem-onojeghuo-3.83003f446b7372176b72.jpg",
+    "static/media/kaci-baum-2.jpg": "/paper-kit-react/static/media/kaci-baum-2.9b929eea6c1ef2b4dbb4.jpg",
+    "static/media/5.jpeg": "/paper-kit-react/static/media/5.c3c99acfee6f506f6c49.jpeg",
+    "static/media/erik-lucatero-2.jpg": "/paper-kit-react/static/media/erik-lucatero-2.d09715abe0463c58d6be.jpg",
+    "static/media/nucleo-icons.eot": "/paper-kit-react/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/paper-kit-react/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/10.jpeg": "/paper-kit-react/static/media/10.eed03a86f569b604676c.jpeg",
+    "static/media/nucleo-icons.woff": "/paper-kit-react/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/paper-kit-react/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/paper-kit-react/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4dafef1a.css",
+    "static/js/main.59af175a.js"
+  ]
+}
