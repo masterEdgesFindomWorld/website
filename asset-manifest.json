@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.d675c2b9.css",
-    "main.js": "/website/static/js/main.92d3e716.js",
+    "main.css": "/website/static/css/main.e4878689.css",
+    "main.js": "/website/static/js/main.1d15f9d8.js",
     "static/media/3.jpeg": "/website/static/media/3.f2d2a460be4f2e01f323.jpeg",
     "static/media/clouds.png": "/website/static/media/clouds.3c700c1313cc1cd3d3c5.png",
     "static/media/login-image.jpg": "/website/static/media/login-image.21e8ba3f9dca3c346851.jpg",
@@ -13,8 +13,8 @@
     "static/media/uriel-soberanes.jpg": "/website/static/media/uriel-soberanes.b741f54e9ccbd071a751.jpg",
     "static/media/6.jpeg": "/website/static/media/6.bc485e1e484a39340b41.jpeg",
     "static/media/fog-low.png": "/website/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/9.jpeg": "/website/static/media/9.2aac76ae836b6a6e342d.jpeg",
     "static/media/daniel-olahh.jpg": "/website/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
-    "static/media/9.jpeg": "/website/static/media/9.ea3ad00be9369459961a.jpeg",
     "static/media/8.jpeg": "/website/static/media/8.3be74f511a76f092c4a3.jpeg",
     "static/media/profile-page.png": "/website/static/media/profile-page.3a626caf205d1143f192.png",
     "static/media/landing-page.png": "/website/static/media/landing-page.80158096b63fb4a837e1.png",
@@ -35,7 +35,7 @@
     "index.html": "/website/index.html"
   },
   "entrypoints": [
-    "static/css/main.d675c2b9.css",
-    "static/js/main.92d3e716.js"
+    "static/css/main.e4878689.css",
+    "static/js/main.1d15f9d8.js"
   ]
 }
